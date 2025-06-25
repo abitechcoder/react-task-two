@@ -1,0 +1,12 @@
+export { default as LogoWhite } from "./logo-white.png";
+export { default as LogoBlack } from "./logo-black.png";
+export { default as HeroImage } from "./hero-image.png";
+export { default as AboutImage1 } from "./about-image-1.png";
+export { default as AboutImage2 } from "./about-image-2.png";
+export { default as AboutImage3 } from "./about-image-3.png";
+export { default as Project1 } from "./project1.png";
+export { default as Project2 } from "./project2.png";
+export { default as Project3 } from "./project3.png";
+export { default as Project4 } from "./project4.png";
+export { default as Project5 } from "./project5.png";
+export { default as ContactUsImage } from "./contact-us-image.png";
